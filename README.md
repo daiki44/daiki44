@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/NestJS-ED2945.svg?logo=nestjs&style=flat)](https://github.com/daiki44)
 [![](https://img.shields.io/badge/-React-222222.svg?logo=react&style=flat)](https://github.com/daiki44)
 [![](https://img.shields.io/badge/-Laravel-333333.svg?logo=laravel&style=flat)](https://github.com/daiki44)
+[![](https://img.shields.io/badge/-Rails-D30001.svg?logo=rubyonrails&style=flat)](https://github.com/daiki44)
 
 [![](https://img.shields.io/badge/-Nginx-299638.svg?logo=nginx&style=flat)](https://github.com/daiki44)
 [![](https://img.shields.io/badge/-PostgreSQL-E9FFFF.svg?logo=postgresql&style=flat)](https://github.com/daiki44)
